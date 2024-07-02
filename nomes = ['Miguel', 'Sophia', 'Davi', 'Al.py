@@ -1,4 +1,4 @@
-nomes = ['Miguel', 'Sophia', 'Davi', 'Alice', 'Artur', 'Julia', 'Pedro', 'Isabela', 'Manuela', 'Laura', 'Raphael', 'Nicolas', 'Maria', 'Pietra', 'Marcelo']
+nomes = ['Flamengo', 'São Paulo', 'Corinthians', 'Botafogo', 'Fluminense', 'Vasco', 'Atlético-MG', 'Atlético-PR', 'Bahia', 'Cruzeiro', 'Fortaleza', 'Bragantino', 'Internacional', 'Juventude', 'Criciíuma']
 
 letra = input("Qual a letra desejada? ").upper()
 
