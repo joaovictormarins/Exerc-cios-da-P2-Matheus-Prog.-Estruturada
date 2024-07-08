@@ -1,4 +1,4 @@
-#Simulação De uma fila De Atendimento
+#exercício 1 Gerenciar De uma fila De Atendimento
 
 fila_atendimento = []
 
