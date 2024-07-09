@@ -9,7 +9,7 @@ while True:
     print("2. Atender cliente")
     print("3. Ver fila de atendimento")
     print("4. Sair do programa")
-    opcao = input("Digite o número da opção desejada: ")
+    opcao = input("Digite o número de acordo com a opção desejada: ")
 
     if opcao == '1':
         cliente = input("Digite o nome do cliente a ser adicionado: ")
